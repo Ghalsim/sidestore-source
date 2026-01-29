@@ -1,18 +1,13 @@
 {
-  "name": "Source do Ghalsim",
-  "identifier": "com.ghalsim.source",
-  "apps": [
-    {
-      "name": "HeadON",
-      "bundleIdentifier": "com.instagames.headon",
-      "developerName": "Ghalsim",
-      "subtitle": "Meu app de teste",
-      "localizedDescription": "HeadON adicionado à minha source do SideStore.",
-      "version": "1.0",
-      "versionDate": "2026-01-29",
-      "downloadURL": "https://drive.google.com/uc?export=download&id=1LVh0wNIux0wL3pEQlUyYltg5vaW0-0a2",
-      "iconURL": "https://ghalsim.github.io/sidestore-source/icon.png",
-      "tintColor": "#4A90E2"
-    }
-  ]
+  "name": "HeadON",
+  "bundleIdentifier": "com.instagames.headon",
+  "developerName": "Ghalsim",
+  "subtitle": "Meu app de teste",
+  "localizedDescription": "HeadON adicionado à minha source do SideStore.",
+  "version": "1.0",
+  "versionDate": "2026-01-29",
+  "size": 1328123997,
+  "downloadURL": "https://drive.google.com/uc?export=download&id=1LVh0wNIux0wL3pEQlUyYltg5vaW0-0a2",
+  "iconURL": "https://ghalsim.github.io/sidestore-source/icon.png",
+  "tintColor": "#4A90E2"
 }
